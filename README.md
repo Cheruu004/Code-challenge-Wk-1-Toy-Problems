@@ -1,32 +1,40 @@
-# heading H1
-Portfolio
-# heading H1
-Author - Brian Koech
-# heading H1
-Project description
-This weeek 1 code challenge.
-Project Instruction
+## Portfolio
 
-Challenge 1: Student Grade Generator (Toy Problem) The program prompts the user to input marks.Then output the correct grade as follows;
+## Author  -  Brian Koech
 
-A > 79, B - 60 to 79, C - 59 to 49, D - 40 to 49, E - less 40. Marks below 0 and above 100 returns invalid marks.
+## Project description
 
-Challenge 2: Speed Detector (Toy Problem) The program prompts the user to input their car speed. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+#### This weeek 1 code challenge.
 
-Challenge 3: Net Salary Calculator .Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary.
+## Project Instruction
+
+Challenge 1: Student Grade Generator (Toy Problem)
+The program prompts the user to input marks.Then output the correct grade as follows;
+
+A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
+Marks below 0 and above 100 returns invalid marks.
+
+
+Challenge 2: Speed Detector (Toy Problem)
+The program prompts  the user to input their car speed. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+
+Challenge 3: Net Salary Calculator
+
+Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary.
+
 **NB:** Use KRA, NHIF, and NSSF values provided in the link below.
 
 - [KRA Tax Rates](https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye)
 - [NHIF and NSSF rates](https://www.aren.co.ke/payroll/taxrates.htm)
 
-
-Live Link
+## Live Link
 
 https://github.com/Cheruu004/Code-challenge-Wk-1-Toy-Problems
-TECHNOLOGY USED
 
+## TECHNOLOGY USED
 Javascript
-LICENSE
+
+## LICENSE
 
 Copyright 2024 Brian Koech
 
